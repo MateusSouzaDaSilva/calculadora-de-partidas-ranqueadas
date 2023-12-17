@@ -1,0 +1,3 @@
+# calculadora-de-partidas-ranqueadas
+
+Desafio da plataforma DIO para a criação de uma calculadora de partidas ranqueadas. Para utilizar o código primeiro é necessário passar nos parâmetros da função a quantidade de vitórias e a quantidade de derrotas respectivamente. Em seguida a função é executada para determinar a classificação ranqueada do usuário e por fim é exibido no console a quantidade de vitórias e o nível do jogador.
